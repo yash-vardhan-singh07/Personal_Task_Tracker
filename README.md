@@ -57,9 +57,9 @@ Open in browser: http://localhost:3000
 
 ### 🔐 Login Page
 
-![Login](screenshots/login.png)
+![Login](screemshots/login.png)
 
 ### 📋 Task Dashboard
 
-![Dashboard](screenshots/taskform.png)
+![Dashboard](screemshots/taskform.png)
 
