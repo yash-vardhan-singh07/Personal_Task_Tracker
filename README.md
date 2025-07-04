@@ -53,4 +53,13 @@ Starting the Server
 
 Open in browser: http://localhost:3000
 
-Folder Structure
+## 🖼 Screenshots
+
+### 🔐 Login Page
+
+![Login](screenshots/login.png)
+
+### 📋 Task Dashboard
+
+![Dashboard](screenshots/taskform.png)
+
